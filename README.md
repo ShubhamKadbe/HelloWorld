@@ -1,4 +1,4 @@
-# The n33ame of the repo
+# The name of the repo
 
 summary of stuff here
 
